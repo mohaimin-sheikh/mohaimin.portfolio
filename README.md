@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:080B0F,50:151B22,100:080B0F&height=140&section=header&text=PROFESSIONAL%20INTRODUCTION&fontSize=30&fontColor=FFD700&fontAlignY=55&stroke=FFD700&strokeWidth=1"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:080B0F,50:151B22,100:080B0F&height=140&section=header&text=PROFESSIONAL%20INTRODUCTION&fontSize=50&fontColor=FFD700&fontAlignY=55&stroke=FFD700&strokeWidth=1"
 width="100%"
 alt="Professional Introduction">
 
